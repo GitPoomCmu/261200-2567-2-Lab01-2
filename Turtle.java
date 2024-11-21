@@ -41,7 +41,7 @@
       */
      public static void main(String[] a)
      {
-        // Happy birthday Bob :)
+        // Happy birthday, Bob :)
          Turtle bob = new Turtle();
          
         // Configuration
